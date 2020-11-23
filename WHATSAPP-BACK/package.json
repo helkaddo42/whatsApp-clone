@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "hicham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6",
+    "pusher": "^4.0.1"
+  }
+}
