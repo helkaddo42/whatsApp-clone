@@ -1,1 +1,1 @@
-<img width="1024" alt="Capture d’écran 2020-12-03 à 13 37 33" src="https://user-images.githubusercontent.com/57210516/101019093-bc7d4b00-356c-11eb-83cf-4cd6d8f3f7e1.png">
+<img width="1220" alt="Capture d’écran 2020-12-03 à 16 17 34" src="https://user-images.githubusercontent.com/57210516/101048706-23a5fa00-3583-11eb-9f2a-29fa95910cce.png">
